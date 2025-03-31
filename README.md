@@ -31,13 +31,12 @@ To set up the Game Room project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/gameroom.git
 
-Navigate to the project directory:
-bash
+2. Navigate to the project directory:
+ ```bash
+    cd Gameroom
 
-Copy
-cd gameroom
-Run the application:
-bash
+3. Run the Application
+   python main.py
 
-Copy
-python game_room.py   
+
+
