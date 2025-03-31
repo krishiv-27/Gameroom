@@ -22,21 +22,10 @@ Welcome to the **Game Room** project! This Python application provides a single-
 
 - Python 3.x
 
-## Installation
 
-To set up the Game Room project locally, follow these steps:
 
-1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/gameroom.git
 
-2. Navigate to the project directory:
- ```bash
-    cd Gameroom
-
-3. Run the Application
-   python main.py
 
 
 
